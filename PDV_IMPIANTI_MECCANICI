@@ -124,3 +124,15 @@ n.	Cod	Impianto	Categoria	Azione di controllo	Giudizio
 ## D
 
 1	D	ELET	Sicurezza 	Controllo valutazione del rischio di fulminazione dell’edificio rispetto alla norma CEI EN 62305-2.
+
+# Meccanico
+
+Per le azioni di verifica necessarie agli impianti meccanici si sono usate le guide create gli anni precedenti,
+in particolare la GUIDA 02 e i suoi allegati.
+
+Nell'edificio preso in esame gli impianti meccanici sono i seguenti:
+
+1. Impianto di riscaldamento e raffrescamento
+1. Impianto di VMC
+1. Impianto idrico-sanitario
+1. Impianto antincendio
